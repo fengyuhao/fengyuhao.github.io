@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+webrick:
+  headers:
+    My-Header: 问题总结
+    My-Other-Header: Java知识
